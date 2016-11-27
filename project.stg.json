@@ -1,0 +1,12 @@
+{
+	"name": "stg-python",
+	"description": "Python example project",
+	"runtime": "python",
+	"memory": 128,
+	"timeout": 60,
+	"role": "arn:aws:iam::333762020587:role/redish-staging-lambda-put-message-buffer",
+	"environment": {
+		"foo": "bar",
+		"hoge": "moge"
+	}
+}
