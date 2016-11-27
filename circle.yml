@@ -1,7 +1,6 @@
 machine:
   python:
     version: 2.7.10
-
 dependencies:
   pre:
     - curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sh
