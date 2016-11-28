@@ -1,6 +1,7 @@
 {
 	"name": "python",
 	"description": "Python example project",
+	"region": "ap-northeast-1",
 	"runtime": "python",
 	"memory": 128,
 	"timeout": 60,
