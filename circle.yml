@@ -5,9 +5,6 @@ machine:
 dependencies:
   pre:
     - curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sudo sh
-test:
-  override:
-    - echo 'test'
 
 deployment:
   master:
