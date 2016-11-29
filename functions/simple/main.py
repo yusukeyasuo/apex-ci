@@ -5,3 +5,6 @@ def handle(event, context):
 
 def add_three(x):
     return x + 3
+
+def add_four(x):
+    return x + 4
