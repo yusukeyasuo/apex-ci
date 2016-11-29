@@ -9,4 +9,4 @@ class TestFunctions(unittest.TestCase):
         self.assertEqual(main.add_three(4), 7)
 
     def test_add_four(self):
-        self.assertEqual(main.add_four(4), 7)
+        self.assertEqual(main.add_four(4), 8)
